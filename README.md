@@ -1,6 +1,6 @@
 # matplotlib-challenge-
 
-In the assignment, I utilized a set of pharmaceutical data to generate tables and figures regarding the comparative performace of all the drugs used in the study. First, I cleaned the data and generated summary statistics by using the 'groupby' and the 'agg' methods. 
+In the project, I utilized a set of pharmaceutical data to generate tables and figures regarding the comparative performace of all the drugs used in the study. First, I cleaned the data and generated summary statistics by using the 'groupby' and the 'agg' methods. 
 
 Second, I created two bar plots using Panda's `DataFrame.plot()` method and MatPlotLib's 'pyplot' methods that show the total number of timepoints for all mice tested for each drug regimen throughout the course of the study.
 
