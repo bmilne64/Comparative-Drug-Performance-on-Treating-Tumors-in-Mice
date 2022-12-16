@@ -1,4 +1,4 @@
-# matplotlib-challenge-
+# Comparative Drug Performance on Treating Tumors in Mice
 
 In the project, I utilized a set of pharmaceutical data to generate tables and figures regarding the comparative performace of all the drugs used in the study. First, I cleaned the data and generated summary statistics by using the 'groupby' and the 'agg' methods. 
 
